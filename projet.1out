@@ -1,0 +1,27 @@
+x = 2 ;
+
+y = ((3 * 4) - x) ;
+
+while(z >= 0)
+{
+    if(x <= 12)
+    {
+        abc = (x - 1) ;
+    }
+    else
+    {
+        def = (abc * abc) ;
+    }
+    for(i = 0 ; i < 100 ; i = (i + 1))
+    {
+        if(i < 50)
+        {
+            qaz = (qaz - 2) ;
+        }
+        else
+        {
+            qaz = (qaz * 2) ;
+        }
+    }
+}
+
